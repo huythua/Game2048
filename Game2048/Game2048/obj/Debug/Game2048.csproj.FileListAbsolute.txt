@@ -1,0 +1,63 @@
+F:\laptrinhgiaodien\Game2048\Game2048\bin\Debug\Game2048.exe.config
+F:\laptrinhgiaodien\Game2048\Game2048\bin\Debug\Game2048.exe
+F:\laptrinhgiaodien\Game2048\Game2048\bin\Debug\Game2048.pdb
+F:\laptrinhgiaodien\Game2048\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+F:\laptrinhgiaodien\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+F:\laptrinhgiaodien\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+F:\laptrinhgiaodien\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+F:\laptrinhgiaodien\Game2048\Game2048\obj\Debug\Game2048.exe
+F:\laptrinhgiaodien\Game2048\Game2048\obj\Debug\Game2048.pdb
+D:\Lập Trình Giao Diện\Game2048\Game2048\bin\Debug\Game2048.exe.config
+D:\Lập Trình Giao Diện\Game2048\Game2048\bin\Debug\Game2048.exe
+D:\Lập Trình Giao Diện\Game2048\Game2048\bin\Debug\Game2048.pdb
+D:\Lập Trình Giao Diện\Game2048\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+D:\Lập Trình Giao Diện\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
+D:\Lập Trình Giao Diện\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\Lập Trình Giao Diện\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+D:\Lập Trình Giao Diện\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+D:\Lập Trình Giao Diện\Game2048\Game2048\obj\Debug\Game2048.exe
+D:\Lập Trình Giao Diện\Game2048\Game2048\obj\Debug\Game2048.pdb
+C:\Users\ADMIN\Downloads\Game2048\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\ADMIN\Downloads\Game2048\Game2048\bin\Debug\Game2048.exe
+C:\Users\ADMIN\Downloads\Game2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\ADMIN\Downloads\Game2048\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Game2048\Game2048\obj\Debug\Game2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Game2048\Game2048\obj\Debug\Game2048.exe
+C:\Users\ADMIN\Downloads\Game2048\Game2048\obj\Debug\Game2048.pdb
+C:\Users\ADMIN\Downloads\Game2048\Game2048\obj\Debug\Game2048.frm1.resources
+F:\laptrinhgiaodien\Game2048\Game2048\obj\Debug\Game2048.frm1.resources
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\bin\Debug\Game2048.exe
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\bin\Debug\Game2048.pdb
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\obj\Debug\Game2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\obj\Debug\Game2048.frm1.resources
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\obj\Debug\Game2048.exe
+C:\Users\ADMIN\Downloads\Game2048 (2)\Game2048\obj\Debug\Game2048.pdb
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\bin\Debug\Game2048.exe.config
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\bin\Debug\Game2048.exe
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\bin\Debug\Game2048.pdb
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\obj\Debug\Game2048.frm1.resources
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\obj\Debug\Game2048.exe
+D:\Lập Trình Giao Diện\Game2048 (11)\Game2048\obj\Debug\Game2048.pdb
+F:\Thừa\Game2048 (11)\Game2048\bin\Debug\Game2048.exe.config
+F:\Thừa\Game2048 (11)\Game2048\bin\Debug\Game2048.exe
+F:\Thừa\Game2048 (11)\Game2048\bin\Debug\Game2048.pdb
+F:\Thừa\Game2048 (11)\Game2048\obj\Debug\Game2048.frm1.resources
+F:\Thừa\Game2048 (11)\Game2048\obj\Debug\Game2048.Frm2cs.resources
+F:\Thừa\Game2048 (11)\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+F:\Thừa\Game2048 (11)\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+F:\Thừa\Game2048 (11)\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+F:\Thừa\Game2048 (11)\Game2048\obj\Debug\Game2048.exe
+F:\Thừa\Game2048 (11)\Game2048\obj\Debug\Game2048.pdb
+F:\Thừa\Game2048 (11)\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
